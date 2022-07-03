@@ -1,0 +1,13 @@
+{
+  "watchForFileChanges": false,
+  "chromeWebSecurity": false,
+  "testFiles": [
+    "**/*.{feature,features}"
+  ],
+  "retries": 1,
+  "reporterOptions": {
+    "overwrite": false,
+    "html": false,
+    "json": true
+  }
+}
